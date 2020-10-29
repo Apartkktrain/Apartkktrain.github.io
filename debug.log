@@ -1,0 +1,2 @@
+[1027/235129.058:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[1028/183827.084:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
